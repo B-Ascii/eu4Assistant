@@ -17,3 +17,9 @@ fs.createReadStream(csvFilePath)
     // All rows parsed, log the data
     console.log(data);
   });
+  const element = document.getElementById("ideaList");
+  for (let i = 0, ln = 100; i < ln; ++i) {
+                 element.value += data[i] + '\n';
+ 
+             }
+ 
