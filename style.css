@@ -156,19 +156,25 @@
     width: 90%;
     height: 80%;
     display: flex;
-    flex-wrap: wrap; 
-   
-
+    flex-wrap: wrap;   
     align-items: center;
     
 }
 .ideaPackItems{
  
-    margin-left: 5%;
+    margin-left: 4%;
     width: 15%;
-    height: 15%;
+    height: 55%;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
 }
+.ideaPackItems:hover {
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
+  }
 #playerSection
 {
     position: absolute;
@@ -194,6 +200,11 @@
     display: flex;
     flex-wrap: wrap; 
     align-items: center;
+}
+
+.players:hover
+{
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
 }
 #locAndGovSection
 {

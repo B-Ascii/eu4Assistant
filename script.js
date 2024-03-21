@@ -1,5 +1,6 @@
 //load button
 var ideasArray=""
+var currentPlayer=""
 let jsonTextArea = document.getElementById('ideaList');
 
 document.getElementById('loadIdeasButton').addEventListener('click', function() {
@@ -56,7 +57,7 @@ document.getElementById('generatePackButton').addEventListener('click',function(
   var rand3= Math.floor(Math.random() * ideasArray.length)
   var rand4 = Math.floor(Math.random() * ideasArray.length)
   var rand5 = Math.floor(Math.random() * ideasArray.length)
-  console.log(ideasArray[rand1])
+  
   var idea1Div = document.getElementById('idea1Div')
   idea1Div.innerHTML=rand1+"\n"+ideasArray[rand1]
   var idea2Div = document.getElementById('idea2Div')
@@ -67,4 +68,69 @@ document.getElementById('generatePackButton').addEventListener('click',function(
   idea4Div.innerHTML=rand4+"\n"+ideasArray[rand4]
   var idea5Div = document.getElementById('idea5Div')
   idea5Div.innerHTML=rand5+"\n"+ideasArray[rand5]
+});
+
+var pideas= document.getElementById('p1ideaList');
+
+document.getElementById('idea1Div').addEventListener('click',function()
+{
+  pideas = document.getElementById(currentPlayer+'eaList');
+  pideas.value += this.innerHTML + "\n";
+  console.log(this.innerHTML) 
+
+
+
+});
+document.getElementById('idea2Div').addEventListener('click',function()
+{
+  pideas = document.getElementById(currentPlayer+'eaList');
+  pideas.value += this.innerHTML + "\n";
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('idea3Div').addEventListener('click',function()
+{
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('idea4Div').addEventListener('click',function()
+{
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('idea5Div').addEventListener('click',function()
+{
+  console.log(this.innerHTML) 
+
+});
+
+document.getElementById('p1id').addEventListener('click',function()
+{
+  currentPlayer='p1id'
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('p2id').addEventListener('click',function()
+{
+  currentPlayer='p2id'
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('p3id').addEventListener('click',function()
+{
+  currentPlayer='p3id'
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('p4id').addEventListener('click',function()
+{
+  currentPlayer='p4id'
+  console.log(this.innerHTML) 
+
+});
+document.getElementById('p5id').addEventListener('click',function()
+{
+  currentPlayer='p5id'
+  console.log(this.innerHTML) 
+
 });
