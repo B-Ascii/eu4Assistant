@@ -1,0 +1,40 @@
+#Content{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+}
+
+#header{
+    position: absolute;
+    width: 100%;
+    height: 5%;
+    top:0;
+    left: 0;
+    background-color: aquamarine;
+}
+
+#allSections{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+
+}
+
+#allIdeaFunctions{
+    position: absolute;
+    width: 50%;
+    height: 45%;
+    top:5%;
+    left: 0;
+    background-color:cadetblue;
+}
+#ideaList { 
+    width: 100%; 
+    height: 200px; 
+    resize: none; 
+    overflow: auto; 
+  } 
