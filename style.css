@@ -43,6 +43,7 @@
     background-color: darkslategray;
     color: white;
     font-size: large;
+    border: gold 3px solid;
   } 
 
 .button{
@@ -56,4 +57,21 @@
     position: absolute;
     bottom: 15%;
     left: 15%;
+}
+.button:hover {
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
+  }
+#deleteIdeaButton{
+
+    left:40%;
+    font-size: medium;
+}
+#ideaDelete{
+    background-color:darkslategray;
+    border: gold 3px solid;
+    color: white;
+    font-size: large;
+    position: absolute;
+    right :20%;
+    bottom: 17.5%;
 }
