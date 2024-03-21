@@ -8,6 +8,7 @@ document.getElementById('loadIdeasButton').addEventListener('click', function() 
         // Display the ideas in the textarea
         const jsonTextArea = document.getElementById('ideaList');
         jsonTextArea.value = ideas;
+
         // const jsonTextArea = document.getElementById('ideaList');
         // jsonTextArea.value = JSON.stringify(data.name, null, 2);
       })
