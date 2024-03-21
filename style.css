@@ -31,6 +31,16 @@
     top:5%;
     left: 0;
     background-color:cadetblue;
+    border: gold 3px solid;
+}
+#isolatedPack{
+    position: absolute;
+    width: 50%;
+    height: 45%;
+    top:5%;
+    right: 0;
+    background-color:cadetblue;
+    border: gold 3px solid;
 }
 #ideaList { 
     position: absolute;
@@ -82,4 +92,37 @@
     position: absolute;
     right :20%;
     bottom: 17.5%;
+}
+#gcNW{
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    width: auto;
+    height: 25%;
+
+}
+#pack{
+    background-color:rgb(21, 32, 32);
+    border: gold 3px solid;
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 90%;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+
+    align-items: center;
+    
+}
+.ideaPackItems{
+ 
+    margin-left: 5%;
+    width: 15%;
+    height: 15%;
+
 }
