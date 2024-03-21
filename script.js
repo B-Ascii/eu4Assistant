@@ -43,8 +43,28 @@ document.getElementById('deleteIdeaButton').addEventListener('click',function()
   console.log(ideasArray)
   var arrayCounter = 0;
           while (arrayCounter<ideasArray.length){
-            jsonTextArea.value += ideasArray[arrayCounter] +"\n";
+            jsonTextArea.value += arrayCounter +" "+ideasArray[arrayCounter] +"\n";
             arrayCounter++;
           }
           arrayCounter = 0;
-})
+});
+
+document.getElementById('generatePackButton').addEventListener('click',function()
+{
+  var rand1 = Math.floor(Math.random() * ideasArray.length)
+  var rand2 = Math.floor(Math.random() * ideasArray.length)
+  var rand3= Math.floor(Math.random() * ideasArray.length)
+  var rand4 = Math.floor(Math.random() * ideasArray.length)
+  var rand5 = Math.floor(Math.random() * ideasArray.length)
+  console.log(ideasArray[rand1])
+  var idea1Div = document.getElementById('idea1Div')
+  idea1Div.innerHTML=rand1+"\n"+ideasArray[rand1]
+  var idea2Div = document.getElementById('idea2Div')
+  idea2Div.innerHTML=rand2+"\n"+ideasArray[rand2]
+  var idea3Div = document.getElementById('idea3Div')
+  idea3Div.innerHTML=rand3+"\n"+ideasArray[rand3]
+  var idea4Div = document.getElementById('idea4Div')
+  idea4Div.innerHTML=rand4+"\n"+ideasArray[rand4]
+  var idea5Div = document.getElementById('idea5Div')
+  idea5Div.innerHTML=rand5+"\n"+ideasArray[rand5]
+});

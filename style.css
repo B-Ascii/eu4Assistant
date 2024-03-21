@@ -93,6 +93,12 @@
     right :20%;
     bottom: 17.5%;
 }
+#generatePackButton{  
+    position: absolute;
+    font-size: medium;
+    left:80%;
+    top:40%;
+}
 #gcNW{
     position: absolute;
     top: -2px;
