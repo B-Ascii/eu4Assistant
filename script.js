@@ -1,25 +1,13 @@
-const fs = require('fs');
-const csv = require('csv-parser');
-
-// Path to your CSV file
-const csvFilePath = 'test.csv';
-
-// Array to store parsed CSV data
-const data = [];
-
-fs.createReadStream(csvFilePath)
-  .pipe(csv())
-  .on('data', (row) => {
-    // Process each row of the CSV
-    data.push(row);
-  })
-  .on('end', () => {
-    // All rows parsed, log the data
-    console.log(data);
+document.getElementById('loadIdeasButton').addEventListener('click', function() {
+    fetch('test.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('JSON data:', data);
+        // Display the JSON data in the output div
+        const ideaList = document.getElementById("ideaList");
+        for (let i = 0, ln = data.length; i < ln; ++i) {
+          ideaList.value += JSON.stringify(data[i]) + '\n'; 
+        }
+      })
+      .catch(error => console.error('Error reading JSON file:', error)); 
   });
-  const element = document.getElementById("ideaList");
-  for (let i = 0, ln = 100; i < ln; ++i) {
-                 element.value += data[i] + '\n';
- 
-             }
- 
