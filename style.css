@@ -66,6 +66,14 @@
     left:40%;
     font-size: medium;
 }
+#removeIdeaLabel{
+    position: absolute;
+    color: white;
+    font-size: large;
+    right :30%;
+    bottom: 25%;
+
+}
 #ideaDelete{
     background-color:darkslategray;
     border: gold 3px solid;
