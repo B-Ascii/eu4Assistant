@@ -1,0 +1,2727 @@
+[
+  {
+    "ID": 1,
+    "IDEA": "Admin Effiencey +10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 2,
+    "IDEA": "Admin Effiencey +5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 3,
+    "IDEA": "Administrative Free Policies +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 4,
+    "IDEA": "Administrative Possible Policies +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 5,
+    "IDEA": "Administrative Technology Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 6,
+    "IDEA": "Administrative Technology Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 7,
+    "IDEA": "Advisor Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 8,
+    "IDEA": "Advisor Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 9,
+    "IDEA": "Advisor Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 10,
+    "IDEA": "All Estates Loyalty Equilibirium +20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 11,
+    "IDEA": "All Estates Loyalty Equilibirium +15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 12,
+    "IDEA": "All Estates Loyalty Equilibirium +10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 13,
+    "IDEA": "All Power Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 14,
+    "IDEA": "All Power Cost -5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 15,
+    "IDEA": "Autonomy Change Cooldown -40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 16,
+    "IDEA": "Average Monarch Lifespan +40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 17,
+    "IDEA": "Average Monarch Lifespan +30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 18,
+    "IDEA": "Average Monarch Lifespan +20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 19,
+    "IDEA": "Caravan Power 40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 20,
+    "IDEA": "Caravan Power 30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 21,
+    "IDEA": "Caravan Power 20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 22,
+    "IDEA": "Chance of New Heir 100%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 23,
+    "IDEA": "Chance of New Heir 75%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 24,
+    "IDEA": "Chance of New Heir 50%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 25,
+    "IDEA": "Change National Focus Cooldown Years -10",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 26,
+    "IDEA": "Change National Focus Cooldown Years -5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 27,
+    "IDEA": "Church Power 40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 28,
+    "IDEA": "Clergy Loyalty Equilibrium +20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 29,
+    "IDEA": "Clergy Loyalty Equilibrium +15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 30,
+    "IDEA": "Clergy Loyalty Equilibrium +10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 31,
+    "IDEA": "Construction Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 32,
+    "IDEA": "Construction Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 33,
+    "IDEA": "Construction Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 34,
+    "IDEA": "Construction Cost -5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 35,
+    "IDEA": "Construction Time -40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 36,
+    "IDEA": "Construction Time -30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 37,
+    "IDEA": "Construction Time -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 38,
+    "IDEA": "Construction Time -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 39,
+    "IDEA": "Core Creation Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 40,
+    "IDEA": "Core Creation Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 41,
+    "IDEA": "Core Creation Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 42,
+    "IDEA": "Cost of Adivors with Ruler's Culture -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 43,
+    "IDEA": "Cost of Adivors with Ruler's Culture -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 44,
+    "IDEA": "Cost of Adivors with Ruler's Culture -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 45,
+    "IDEA": "Curia Power Costs -60%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 46,
+    "IDEA": "Curia Power Costs -45%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 47,
+    "IDEA": "Development Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 48,
+    "IDEA": "Development Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 49,
+    "IDEA": "Development Cost Modifier -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 50,
+    "IDEA": "Development Cost Modifier -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 51,
+    "IDEA": "Development Cost Modifier -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 52,
+    "IDEA": "Development Cost Modifier -5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 53,
+    "IDEA": "Female Adivsor Chance +100%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 54,
+    "IDEA": "Female Adivsor Chance +50%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 55,
+    "IDEA": "Free Policies +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 56,
+    "IDEA": "Global Monthyl Devastation -0.1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 57,
+    "IDEA": "Global Monthyl Devastation -0.05",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 58,
+    "IDEA": "Global Possible Number of buildings +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 59,
+    "IDEA": "Global Possible Number of buildings +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 60,
+    "IDEA": "Global Prosperity Growth +0.1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 61,
+    "IDEA": "Global Prosperity Growth +0.05",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 62,
+    "IDEA": "Gold Depletion Chance -50%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 63,
+    "IDEA": "Gold Depletion Chance -25%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 64,
+    "IDEA": "Goods Produced +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 65,
+    "IDEA": "Goods Produced +1.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 66,
+    "IDEA": "Goods Produced +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 67,
+    "IDEA": "Goods Produced +0.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 68,
+    "IDEA": "Goods Produced +20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 69,
+    "IDEA": "Goods Produced +15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 70,
+    "IDEA": "Goods Produced +10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 71,
+    "IDEA": "Goods Produced +5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 72,
+    "IDEA": "Governing Capacity Modifier 40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 73,
+    "IDEA": "Governing Capacity Modifier 30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 74,
+    "IDEA": "Governing Capacity Modifier 20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 75,
+    "IDEA": "Governing Capacity Modifier 10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 76,
+    "IDEA": "Great Project Upgrade Cost -40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 77,
+    "IDEA": "Great Project Upgrade Cost -30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 78,
+    "IDEA": "Great Project Upgrade Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 79,
+    "IDEA": "Heretic and Heathen Provinces do not give any penalties",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 80,
+    "IDEA": "Hostile Core-Creation Cost on Us +60%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 81,
+    "IDEA": "Hostile Core-Creation Cost on Us +45%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 82,
+    "IDEA": "Idea Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 83,
+    "IDEA": "Idea Cost -5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 84,
+    "IDEA": "Ignore Coring Distance",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 85,
+    "IDEA": "Income from Vassals 20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 86,
+    "IDEA": "Income from Vassals 15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 87,
+    "IDEA": "Income from Vassals 10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 88,
+    "IDEA": "Innovativeness Gain 100%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 89,
+    "IDEA": "Innovativeness Gain 75%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 90,
+    "IDEA": "Innovativeness Gain 50%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 91,
+    "IDEA": "Insiution Embracement Cost -40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 92,
+    "IDEA": "Insiution Embracement Cost -30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 93,
+    "IDEA": "Insitution Spread 40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 94,
+    "IDEA": "Insitution Spread in True Faith Provinces +40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 95,
+    "IDEA": "Interest Per Annum -1.0",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 96,
+    "IDEA": "Interest Per Annum -0.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 97,
+    "IDEA": "Length of election term -1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 98,
+    "IDEA": "Maximum Absolutism +20",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 99,
+    "IDEA": "Maximum Absolutism +15",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 100,
+    "IDEA": "Maximum Absolutism +10",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 101,
+    "IDEA": "Minimum Autonomy in Territories -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 102,
+    "IDEA": "Missionaries +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 103,
+    "IDEA": "Missionaries +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 104,
+    "IDEA": "Missionary Maitence Cost -40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 105,
+    "IDEA": "Missionary Strength +2%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 106,
+    "IDEA": "Missionary Strength +1.5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 107,
+    "IDEA": "Monarch Administrative Skill +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 108,
+    "IDEA": "Monthly Administrave Power + 1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 109,
+    "IDEA": "Monthly Autonomy Change -0.1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 110,
+    "IDEA": "Monthly Autonomy Change -0.05",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 111,
+    "IDEA": "Monthly Faith Power +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 112,
+    "IDEA": "Monthly Fervor +4",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 113,
+    "IDEA": "Monthly Fervor +3",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 114,
+    "IDEA": "Monthly Gold Inflation Modifier -50%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 115,
+    "IDEA": "Monthly Piety -0.2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 116,
+    "IDEA": "Monthly Piety 0.2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 117,
+    "IDEA": "Monthly Piety Accelerator 0.4",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 118,
+    "IDEA": "Monthly Piety Accelerator 0.2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 119,
+    "IDEA": "Monthly Splendor +8",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 120,
+    "IDEA": "Monthly Splendor +6",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 121,
+    "IDEA": "Monthly Splendor +4",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 122,
+    "IDEA": "Monthly Splendor +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 123,
+    "IDEA": "Move Capital Cost Modifier -80%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 124,
+    "IDEA": "National Tax Modifier +20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 125,
+    "IDEA": "National Tax Modifier +15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 126,
+    "IDEA": "National Unrest -2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 127,
+    "IDEA": "No Stability Loss on Monarch Death",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 128,
+    "IDEA": "Permanent CB against Neighboring Heathens and Heretics",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 129,
+    "IDEA": "Possible Adivosrs +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 130,
+    "IDEA": "Possile Policies +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 131,
+    "IDEA": "Prestige Decay -2%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 132,
+    "IDEA": "Prestige Decay -1.5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 133,
+    "IDEA": "Production Effeciency +20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 134,
+    "IDEA": "Production Effeciency +15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 135,
+    "IDEA": "Production Effeciency +10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 136,
+    "IDEA": "Production Effeciency +5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 137,
+    "IDEA": "Reduce Inflation Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 138,
+    "IDEA": "Reduce Inflation Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 139,
+    "IDEA": "Reelection Cost -30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 140,
+    "IDEA": "Reelection Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 141,
+    "IDEA": "Reform Progress Growth +30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 142,
+    "IDEA": "Reform Progress Growth +22.5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 143,
+    "IDEA": "Reform Progress Growth +15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 144,
+    "IDEA": "Religious Unity +30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 145,
+    "IDEA": "Stability Cost Modifier -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 146,
+    "IDEA": "Stability Cost Modifier -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 147,
+    "IDEA": "State Maitnence -40%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 148,
+    "IDEA": "State Maitnence -30%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 149,
+    "IDEA": "State Governings Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 150,
+    "IDEA": "State Governings Cost -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 151,
+    "IDEA": "State Governings Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 152,
+    "IDEA": "Technology Cost -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 153,
+    "IDEA": "Technology Cost -5%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 154,
+    "IDEA": "Tolerance of Heathens +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 155,
+    "IDEA": "Tolerance of Heretics +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 156,
+    "IDEA": "Tolerance of True faith +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 157,
+    "IDEA": "Trade Company Governing Cost -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 158,
+    "IDEA": "Yearly Absolutism +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 159,
+    "IDEA": "Yearly Absolutism +0.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 160,
+    "IDEA": "Yearly Corruption -0.2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 161,
+    "IDEA": "Yearly Corruption -0.15",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 162,
+    "IDEA": "Yearly Corruption -0.1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 163,
+    "IDEA": "Yearly Devotion +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 164,
+    "IDEA": "Yearly Horde Unity +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 165,
+    "IDEA": "Yearly Horde Unity +0.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 166,
+    "IDEA": "Yearly Inflation Reduction +0.2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 167,
+    "IDEA": "Yearly Inflation Reduction +0.15",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 168,
+    "IDEA": "Yearly Inflation Reduction +0.10",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 169,
+    "IDEA": "Yearly Patriach Authority +2.0",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 170,
+    "IDEA": "Yearly Patriach Authority +1.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 171,
+    "IDEA": "Yearly Patriach Authority +1",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 172,
+    "IDEA": "Yearly Prestige +2",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 173,
+    "IDEA": "Yearly Prestige +1.5",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 174,
+    "IDEA": "Yearly Prestige +1.0",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 175,
+    "IDEA": "Yearly Republican Tradition 0.30",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 176,
+    "IDEA": "Yearly Republican Tradition 0.15",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 177,
+    "IDEA": "Years of Sepratism -10",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 178,
+    "IDEA": "All Estate Influence -20%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 179,
+    "IDEA": "All Estate Influence -15%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 180,
+    "IDEA": "All Estate Influence -10%",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 181,
+    "IDEA": "Yearly Harmony growth +whatever",
+    "Type": "ADMIN"
+  },
+  {
+    "ID": 182,
+    "IDEA": "Army Tradition 50% from battles",
+    "Type": "MIL"
+  },
+  {
+    "ID": 183,
+    "IDEA": "Army Tradition 100% from battles",
+    "Type": "MIL"
+  },
+  {
+    "ID": 184,
+    "IDEA": "Army Drill Modifier 50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 185,
+    "IDEA": "Artillery Combat Ability 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 186,
+    "IDEA": "Artillery Combat Ability 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 187,
+    "IDEA": "Artillery Combat Ability 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 188,
+    "IDEA": "Artillery Cost - 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 189,
+    "IDEA": "Artillery Cost - 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 190,
+    "IDEA": "Artillery Damage from back row 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 191,
+    "IDEA": "Artillery Damage from back row 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 192,
+    "IDEA": "Artillery Damage from back row 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 193,
+    "IDEA": "Artillery Fire +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 194,
+    "IDEA": "Artillery Levels Available vs Fort +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 195,
+    "IDEA": "Artillery Shock +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 196,
+    "IDEA": "Artillery Shock +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 197,
+    "IDEA": "Attrion for Enemies +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 198,
+    "IDEA": "Attrition for Enemies +1.5",
+    "Type": "MIL"
+  },
+  {
+    "ID": 199,
+    "IDEA": "Available Loot 60%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 200,
+    "IDEA": "Blockade Impact on Siege +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 201,
+    "IDEA": "Cav combat Ability +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 202,
+    "IDEA": "Cav combat Ability +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 203,
+    "IDEA": "Cav combat Ability +10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 204,
+    "IDEA": "Cav Cost -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 205,
+    "IDEA": "Cav Cost -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 206,
+    "IDEA": "Cav Cost -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 207,
+    "IDEA": "Cavalry Fire +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 208,
+    "IDEA": "Cavalry Flanking Ability +50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 209,
+    "IDEA": "Cavalry Shock +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 210,
+    "IDEA": "Cav to Infantry Ration +60%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 211,
+    "IDEA": "Cav to Infantry Ration +45%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 212,
+    "IDEA": "Cav to Infantry Ration +30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 213,
+    "IDEA": "Combat Bonus in Terrain of Capital +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 214,
+    "IDEA": "Discipline 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 215,
+    "IDEA": "Discipline 7.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 216,
+    "IDEA": "Discipline 5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 217,
+    "IDEA": "Discipline 2.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 218,
+    "IDEA": "Fire Damage Recieved -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 219,
+    "IDEA": "Fire Damage Recieve -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 220,
+    "IDEA": "Fire Damage Recieve -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 221,
+    "IDEA": "Fire Damage Recieve -5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 222,
+    "IDEA": "Force March Costs no power",
+    "Type": "MIL"
+  },
+  {
+    "ID": 223,
+    "IDEA": "Fort Defense +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 224,
+    "IDEA": "Fort Defense +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 225,
+    "IDEA": "Fort Maintence on Border with Rival -40%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 226,
+    "IDEA": "Garrison Size +40%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 227,
+    "IDEA": "Garrison Size +30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 228,
+    "IDEA": "Garrison Size +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 229,
+    "IDEA": "General Cost -50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 230,
+    "IDEA": "General Cost -25%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 231,
+    "IDEA": "Global Attacker Dice Roll +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 232,
+    "IDEA": "Global Defender Dice Roll +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 233,
+    "IDEA": "Ignore Zone of Control",
+    "Type": "MIL"
+  },
+  {
+    "ID": 234,
+    "IDEA": "Infantry Combat Ability +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 235,
+    "IDEA": "Infantry Combat Ability +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 236,
+    "IDEA": "Infantry Combat Ability +10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 237,
+    "IDEA": "Infantry Cost -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 238,
+    "IDEA": "Infantry Cost -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 239,
+    "IDEA": "Infantry Cost -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 240,
+    "IDEA": "Infantry Fire +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 241,
+    "IDEA": "Infantry Shock +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 242,
+    "IDEA": "Land Attrtion -40%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 243,
+    "IDEA": "Land Attrtion -30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 244,
+    "IDEA": "Land Fire Damage +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 245,
+    "IDEA": "Land Fire Damage +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 246,
+    "IDEA": "Land Fire Damage +10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 247,
+    "IDEA": "Land Fire Damage +5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 248,
+    "IDEA": "Land Force Limit Modifier +30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 249,
+    "IDEA": "Land Force Limit Modifier +22.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 250,
+    "IDEA": "Land Force Limit Modifier +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 251,
+    "IDEA": "Land Leader Siege +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 252,
+    "IDEA": "Land Leader Siege +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 253,
+    "IDEA": "Land Leader Fire +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 254,
+    "IDEA": "Land Leader Fire +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 255,
+    "IDEA": "Land Leader Maneuver +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 256,
+    "IDEA": "Land Leader Shock +2",
+    "Type": "MIL"
+  },
+  {
+    "ID": 257,
+    "IDEA": "Land Leader Shock +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 258,
+    "IDEA": "Land Maintence Modifier -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 259,
+    "IDEA": "Land Maintence Modifier -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 260,
+    "IDEA": "Land Maitnence Modifier -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 261,
+    "IDEA": "Manpower Recovery Speed 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 262,
+    "IDEA": "Manpower Recovery Speed 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 263,
+    "IDEA": "Manpower Recovery Speed 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 264,
+    "IDEA": "Manpower in Accepted Culture 50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 265,
+    "IDEA": "Manpower in Accepted Culture 37.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 266,
+    "IDEA": "Manpower in Accepted Culture 25%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 267,
+    "IDEA": "Manpower in Primary Culture 50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 268,
+    "IDEA": "Manpower in true Faith 40%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 269,
+    "IDEA": "Manpower in true faith 30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 270,
+    "IDEA": "Manpower in true Faith 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 271,
+    "IDEA": "Max Hostile Attrition +9",
+    "Type": "MIL"
+  },
+  {
+    "ID": 272,
+    "IDEA": "Max Hostile Attrition +8",
+    "Type": "MIL"
+  },
+  {
+    "ID": 273,
+    "IDEA": "Mercenary Cost -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 274,
+    "IDEA": "Mercenary Discipline +10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 275,
+    "IDEA": "Mercenary Discipline +7.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 276,
+    "IDEA": "Mercenary Discipline 5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 277,
+    "IDEA": "Mercenary Manpower 50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 278,
+    "IDEA": "Mercenary Manpower 37.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 279,
+    "IDEA": "Military Free Policies +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 280,
+    "IDEA": "Military Possible Policies +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 281,
+    "IDEA": "Military tactics 0.1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 282,
+    "IDEA": "Military tactics 0.08",
+    "Type": "MIL"
+  },
+  {
+    "ID": 283,
+    "IDEA": "Military tactics 0.05",
+    "Type": "MIL"
+  },
+  {
+    "ID": 284,
+    "IDEA": "Military Tech Cost -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 285,
+    "IDEA": "Military Tech Cost -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 286,
+    "IDEA": "Military Tech Cost -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 287,
+    "IDEA": "Monarch Military Skill +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 288,
+    "IDEA": "Monthly Military Power +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 289,
+    "IDEA": "Morale Damage 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 290,
+    "IDEA": "Morale Damage 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 291,
+    "IDEA": "Morale Damage 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 292,
+    "IDEA": "Morale Damage 5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 293,
+    "IDEA": "Morale Damage Recieved -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 294,
+    "IDEA": "Morale Damage Recieved -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 295,
+    "IDEA": "Morale Damage Recieved -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 296,
+    "IDEA": "Morale Damage Recieved -5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 297,
+    "IDEA": "Morale of Armies 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 298,
+    "IDEA": "Morale of Armies 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 299,
+    "IDEA": "Morale of Armies 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 300,
+    "IDEA": "Morale of Armies 5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 301,
+    "IDEA": "Movement Speed 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 302,
+    "IDEA": "Movement Speed 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 303,
+    "IDEA": "Movement Speed 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 304,
+    "IDEA": "National Garrison Growth 80%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 305,
+    "IDEA": "National Manpower 30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 306,
+    "IDEA": "National Manpower 22.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 307,
+    "IDEA": "National Manpower 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 308,
+    "IDEA": "Nobility Loyalty Equilibirium +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 309,
+    "IDEA": "Own Territory Dice Roll Bonus +1",
+    "Type": "MIL"
+  },
+  {
+    "ID": 310,
+    "IDEA": "Possible Cawa + 0.6",
+    "Type": "MIL"
+  },
+  {
+    "ID": 311,
+    "IDEA": "Possible Cawa + 0.45",
+    "Type": "MIL"
+  },
+  {
+    "ID": 312,
+    "IDEA": "Possible Wing Hussar level 4",
+    "Type": "MIL"
+  },
+  {
+    "ID": 313,
+    "IDEA": "Possible Wing Hussar level 3",
+    "Type": "MIL"
+  },
+  {
+    "ID": 314,
+    "IDEA": "Prestige from Land Battles +100%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 315,
+    "IDEA": "Razing Power +40%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 316,
+    "IDEA": "Razing Power +30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 317,
+    "IDEA": "Recover Army Morale Speed +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 318,
+    "IDEA": "Recover Army Morale Speed +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 319,
+    "IDEA": "Recover Army Morale Speed +10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 320,
+    "IDEA": "Recover Army Morale Speed +5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 321,
+    "IDEA": "Recruiting Time -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 322,
+    "IDEA": "Recruiting Time -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 323,
+    "IDEA": "Recruiting Time -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 324,
+    "IDEA": "Reduced Morale Damage Taken by Reserves +60%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 325,
+    "IDEA": "Reduced Morale Damage Taken by Reserves +45%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 326,
+    "IDEA": "Reduced Morale Damage Taken by Reserves +30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 327,
+    "IDEA": "Regain Manpower When Disbanding",
+    "Type": "MIL"
+  },
+  {
+    "ID": 328,
+    "IDEA": "Regiment Cost -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 329,
+    "IDEA": "Regiment Cost -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 330,
+    "IDEA": "Regiment Drill Lost -50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 331,
+    "IDEA": "Regiment Drill Lost -37.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 332,
+    "IDEA": "Regiment Drill Lost -25.0%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 333,
+    "IDEA": "Regiment Manpower Usage -30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 334,
+    "IDEA": "Regiment Manpower Usage -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 335,
+    "IDEA": "Reinforce Cost -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 336,
+    "IDEA": "Reinforce Cost -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 337,
+    "IDEA": "Reinforce Speed 30%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 338,
+    "IDEA": "Reinforce Speed 22.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 339,
+    "IDEA": "Shock Damage 20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 340,
+    "IDEA": "Shock Damage 15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 341,
+    "IDEA": "Shock Damage 10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 342,
+    "IDEA": "Shock Damage Recieved -20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 343,
+    "IDEA": "Shock Damage Recieved -15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 344,
+    "IDEA": "Shock Damage Recieved -10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 345,
+    "IDEA": "Shock Damage Recieved -5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 346,
+    "IDEA": "Siege Ability +20%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 347,
+    "IDEA": "Siege Ability +15%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 348,
+    "IDEA": "Siege Ability +10%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 349,
+    "IDEA": "Special Unit Force Limit +60%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 350,
+    "IDEA": "Special Unit Force Limit +45%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 351,
+    "IDEA": "Triple Manpower increase in religious Wars",
+    "Type": "MIL"
+  },
+  {
+    "ID": 352,
+    "IDEA": "Vassal Force Limit 200%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 353,
+    "IDEA": "Yearly Army Professionalism +2.0%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 354,
+    "IDEA": "Yearly Army Professionalism +1.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 355,
+    "IDEA": "Yearly Army Professionalism +1%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 356,
+    "IDEA": "Yearly Army Professionalism +0.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 357,
+    "IDEA": "Yearly Army Tradition 1.0",
+    "Type": "MIL"
+  },
+  {
+    "ID": 358,
+    "IDEA": "Yearly Army Tradition 0.5",
+    "Type": "MIL"
+  },
+  {
+    "ID": 359,
+    "IDEA": "Yearly Army Tradition Decay -1.0%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 360,
+    "IDEA": "Yearly Army Tradition Decay -0.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 361,
+    "IDEA": "Possible Manchu Banners 50%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 362,
+    "IDEA": "Possible Manchu Banners 25%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 363,
+    "IDEA": "Army Drill Modifier 37.5%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 364,
+    "IDEA": "Army Drill Modifier 25%",
+    "Type": "MIL"
+  },
+  {
+    "ID": 365,
+    "IDEA": "Admiral Cost -50%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 366,
+    "IDEA": "Admiral Cost -25%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 367,
+    "IDEA": "Allow Claims Bordering Claims",
+    "Type": "DIP"
+  },
+  {
+    "ID": 368,
+    "IDEA": "Allow estate Priviledges to be revoked regardless to be revoked",
+    "Type": "DIP"
+  },
+  {
+    "ID": 369,
+    "IDEA": "Allows Transfer Subject Peace Treaty at half cost",
+    "Type": "DIP"
+  },
+  {
+    "ID": 370,
+    "IDEA": "Attrition when loaded on ships: -100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 371,
+    "IDEA": "Attrition when loaded on ships: -75%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 372,
+    "IDEA": "Attrition when loaded on ships: -50%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 373,
+    "IDEA": "Blocakde Efficiency 40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 374,
+    "IDEA": "Blockade Efficiency 30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 375,
+    "IDEA": "Burger Loyalty Effiencey +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 376,
+    "IDEA": "Burger Loyalty Effiencey +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 377,
+    "IDEA": "Burger Loyalty Effiencey +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 378,
+    "IDEA": "Burger Loyalty Effiencey +5%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 379,
+    "IDEA": "Can Create Client States",
+    "Type": "DIP"
+  },
+  {
+    "ID": 380,
+    "IDEA": "Center of Trade Upgrade Cost -40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 381,
+    "IDEA": "Center of Trade Upgrade Cost -30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 382,
+    "IDEA": "Center of Trade Upgrade Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 383,
+    "IDEA": "Chance to Capture Enemy Ships +40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 384,
+    "IDEA": "Chance to Capture Enemy Ships +30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 385,
+    "IDEA": "Chance to Capture Enemy Ships +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 386,
+    "IDEA": "Colonial Range 40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 387,
+    "IDEA": "Colonists +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 388,
+    "IDEA": "Colonists +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 389,
+    "IDEA": "Colony Development Boost +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 390,
+    "IDEA": "Combat Penalty When Landing -1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 391,
+    "IDEA": "Combat Penalty When Landing -2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 392,
+    "IDEA": "Cost of reudcing war Exhaustion -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 393,
+    "IDEA": "Cost of reudcing war Exhaustion -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 394,
+    "IDEA": "Cost to Promote Mercantilism -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 395,
+    "IDEA": "Cost to Promote Mercantilism -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 396,
+    "IDEA": "Cost to Promote Mercantilism -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 397,
+    "IDEA": "Cost to Fabricate claim -70%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 398,
+    "IDEA": "Cost to Fabricate claim -52.5%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 399,
+    "IDEA": "Culture Conversion Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 400,
+    "IDEA": "Culture Conversion Cost -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 401,
+    "IDEA": "Culture Conversion Cost -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 402,
+    "IDEA": "Diplomatic Annexation Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 403,
+    "IDEA": "Diplomatic Annexation Cost -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 404,
+    "IDEA": "Diplomatic Annexation Cost -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 405,
+    "IDEA": "Diplomatic Free Policies +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 406,
+    "IDEA": "Diplomatic Possible Policies + 1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 407,
+    "IDEA": "Diplomatic Relations +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 408,
+    "IDEA": "Diplomatic Reputation +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 409,
+    "IDEA": "Diplomatic Reputation +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 410,
+    "IDEA": "Diplomatic Technology Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 411,
+    "IDEA": "Diplomatic Technology Cost -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 412,
+    "IDEA": "Diplomatic Technology Cost -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 413,
+    "IDEA": "Diplomats +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 414,
+    "IDEA": "Diplomats +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 415,
+    "IDEA": "Disemnbark Speed +100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 416,
+    "IDEA": "Disemnbark Speed +75%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 417,
+    "IDEA": "Disemnbark Speed +50%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 418,
+    "IDEA": "Domestic Trade Power +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 419,
+    "IDEA": "Domestic Trade Power +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 420,
+    "IDEA": "Domestic Trade Power +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 421,
+    "IDEA": "Embargo Effieceny +40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 422,
+    "IDEA": "Embargo Effieceny +30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 423,
+    "IDEA": "Embargo Effieceny +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 424,
+    "IDEA": "Envoy Travel time -40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 425,
+    "IDEA": "Flagship Cost -80%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 426,
+    "IDEA": "Fleet Movement Speed +4",
+    "Type": "DIP"
+  },
+  {
+    "ID": 427,
+    "IDEA": "Fleet Movement Speed +3",
+    "Type": "DIP"
+  },
+  {
+    "ID": 428,
+    "IDEA": "Fleet Movement Speed +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 429,
+    "IDEA": "Fleet Movement Speed +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 430,
+    "IDEA": "Galley Combat Ability +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 431,
+    "IDEA": "Galley Combat Ability +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 432,
+    "IDEA": "Galley Combat Ability +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 433,
+    "IDEA": "Galley Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 434,
+    "IDEA": "Global Naval Engagement Modifier +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 435,
+    "IDEA": "Global Naval Engagement Modifier +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 436,
+    "IDEA": "Global Naval Engagement Modifier +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 437,
+    "IDEA": "Global Settler Increase +20",
+    "Type": "DIP"
+  },
+  {
+    "ID": 438,
+    "IDEA": "Global Settler Increase +15",
+    "Type": "DIP"
+  },
+  {
+    "ID": 439,
+    "IDEA": "Global Ship Repair +40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 440,
+    "IDEA": "Global Tarrifs +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 441,
+    "IDEA": "Global Trade Power +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 442,
+    "IDEA": "Global Trade Power +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 443,
+    "IDEA": "Global Trade Power +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 444,
+    "IDEA": "Heavy Ship Combat Ability +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 445,
+    "IDEA": "Heavy Ship Combat Ability +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 446,
+    "IDEA": "Heavy Ship Combat Ability +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 447,
+    "IDEA": "Heavy Ship Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 448,
+    "IDEA": "Heavy Ship Cost -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 449,
+    "IDEA": "Liberty Desire from Subject Dev -40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 450,
+    "IDEA": "Liberty Desire from Subject Dev -30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 451,
+    "IDEA": "Liberty Desire from Subject Dev -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 452,
+    "IDEA": "Libery Desire in Same Continent Subjects -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 453,
+    "IDEA": "Liberty Desire in Subjects -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 454,
+    "IDEA": "Liberty Desire in Subjects -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 455,
+    "IDEA": "Liberty Desire in Subjects -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 456,
+    "IDEA": "Light Ship Combat Ability +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 457,
+    "IDEA": "Light Ship Combat Ability +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 458,
+    "IDEA": "Light Ship Combat Ability +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 459,
+    "IDEA": "Light Ship Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 460,
+    "IDEA": "Light Ship Cost -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 461,
+    "IDEA": "Lowered Impact on Stability from diplomatic Actions",
+    "Type": "DIP"
+  },
+  {
+    "ID": 462,
+    "IDEA": "Max Promoted Culture +4",
+    "Type": "DIP"
+  },
+  {
+    "ID": 463,
+    "IDEA": "Max Promoted Culture +3",
+    "Type": "DIP"
+  },
+  {
+    "ID": 464,
+    "IDEA": "Max Promoted Culture +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 465,
+    "IDEA": "May Establish Siberian Frontiers",
+    "Type": "DIP"
+  },
+  {
+    "ID": 466,
+    "IDEA": "May Raid Coats",
+    "Type": "DIP"
+  },
+  {
+    "ID": 467,
+    "IDEA": "May Raid Costs Including Coats of Countries with same religion",
+    "Type": "DIP"
+  },
+  {
+    "ID": 468,
+    "IDEA": "Merchant Trade Power +10",
+    "Type": "DIP"
+  },
+  {
+    "ID": 469,
+    "IDEA": "Merchant Trade Power +5",
+    "Type": "DIP"
+  },
+  {
+    "ID": 470,
+    "IDEA": "Merchants +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 471,
+    "IDEA": "Merchants +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 472,
+    "IDEA": "Monarch Diplomatic Skill +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 473,
+    "IDEA": "Monthly Diplomatic Power +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 474,
+    "IDEA": "Monthly War Exhaustion -0.1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 475,
+    "IDEA": "Monthly War Exhaustion -0.05",
+    "Type": "DIP"
+  },
+  {
+    "ID": 476,
+    "IDEA": "Morale Hit When Losing a Ship -40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 477,
+    "IDEA": "Morale Hit When Losing a Ship -30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 478,
+    "IDEA": "War Taxes Cost -100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 479,
+    "IDEA": "Morale of Navies +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 480,
+    "IDEA": "Morale of Navies +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 481,
+    "IDEA": "Morale of Navies +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 482,
+    "IDEA": "Morale of Navies +5%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 483,
+    "IDEA": "National Sailors Modifier 40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 484,
+    "IDEA": "National Sailors Modifier 30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 485,
+    "IDEA": "Native Assimilation +60%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 486,
+    "IDEA": "Native Uprising Chance -100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 487,
+    "IDEA": "Naval Attiriton -40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 488,
+    "IDEA": "Naval Attiriton -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 489,
+    "IDEA": "Naval Barrage -60%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 490,
+    "IDEA": "Naval Combat bonus off owned Coast +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 491,
+    "IDEA": "Naval Combat bonus off owned Coast +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 492,
+    "IDEA": "EMPTY",
+    "Type": "DIP"
+  },
+  {
+    "ID": 493,
+    "IDEA": "Naval Leader Fire +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 494,
+    "IDEA": "Naval Leader Fire +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 495,
+    "IDEA": "Naval Leader Maneuver +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 496,
+    "IDEA": "Naval Leader Maneuver +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 497,
+    "IDEA": "Naval Leader Shock +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 498,
+    "IDEA": "Naval Maitnence Modifier -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 499,
+    "IDEA": "Naval Maitnence Modifier -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 500,
+    "IDEA": "Naval Maitnence Modifier -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 501,
+    "IDEA": "Naval tradition from Battles +100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 502,
+    "IDEA": "Naval tradition from Battles +50%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 503,
+    "IDEA": "Power Projection from Insults +100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 504,
+    "IDEA": "Prestige from Naval battles +100%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 505,
+    "IDEA": "Provinces War Score Cost -25%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 506,
+    "IDEA": "Provinces War Score Cost -12.5%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 507,
+    "IDEA": "Provicinial Trade Power +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 508,
+    "IDEA": "Provicinial Trade Power +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 509,
+    "IDEA": "Provicinial Trade Power +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 510,
+    "IDEA": "Ship Cost -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 511,
+    "IDEA": "Ship Cost -15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 512,
+    "IDEA": "Ship Cost -10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 513,
+    "IDEA": "Ship Disengagement Chance +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 514,
+    "IDEA": "Ship Disengagement Chance +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 515,
+    "IDEA": "Ship Durability +20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 516,
+    "IDEA": "Ship Durability +15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 517,
+    "IDEA": "Ship Durability +10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 518,
+    "IDEA": "Ship Durability +5%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 519,
+    "IDEA": "Ship Trade Power 40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 520,
+    "IDEA": "Ship Trade Power 30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 521,
+    "IDEA": "Ship Trade Power 20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 522,
+    "IDEA": "Trade Effiecieny 20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 523,
+    "IDEA": "Trade Effiecieny 15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 524,
+    "IDEA": "Trade Effiecieny 10%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 525,
+    "IDEA": "Trade Power Abroad 20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 526,
+    "IDEA": "Trade Power Abroad 15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 527,
+    "IDEA": "Trade Range 80%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 528,
+    "IDEA": "Trade Steering 20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 529,
+    "IDEA": "Trade Steering 15%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 530,
+    "IDEA": "Transport Combat Ability +40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 531,
+    "IDEA": "War Score vs Other religions -25%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 532,
+    "IDEA": "War Score vs Other religions -12.5%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 533,
+    "IDEA": "Stability Hit to Declare War -3",
+    "Type": "DIP"
+  },
+  {
+    "ID": 534,
+    "IDEA": "Stability Hit to Declare War -2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 535,
+    "IDEA": "Stability Hit to Declare War -1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 536,
+    "IDEA": "Yearly Navy Tradiition +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 537,
+    "IDEA": "Yearly Papal Influence +2",
+    "Type": "DIP"
+  },
+  {
+    "ID": 538,
+    "IDEA": "Yearly Papal Influence +1",
+    "Type": "DIP"
+  },
+  {
+    "ID": 539,
+    "IDEA": "Ship Trade Power Propagation 40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 540,
+    "IDEA": "Ship Trade Power Propagation 30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 541,
+    "IDEA": "Unjustified Demands -40%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 542,
+    "IDEA": "Unjustified Demands -30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 543,
+    "IDEA": "Unjustified Demands -20%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 544,
+    "IDEA": "Colonial Range +30%",
+    "Type": "DIP"
+  },
+  {
+    "ID": 545,
+    "IDEA": "Colonial Range +20%",
+    "Type": "DIP"
+  }
+]
