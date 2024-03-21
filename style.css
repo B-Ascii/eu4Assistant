@@ -40,4 +40,20 @@
     top:15%; 
     resize: none; 
     overflow: auto; 
+    background-color: darkslategray;
+    color: white;
+    font-size: large;
   } 
+
+.button{
+    background-color: blue;
+    border-radius: 40%;
+    border: gold 3px solid;
+    height: 40px;
+    width: 125px;
+    color: white;
+    font-size: large;
+    position: absolute;
+    bottom: 15%;
+    left: 15%;
+}
