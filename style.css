@@ -132,3 +132,19 @@
     height: 15%;
 
 }
+<<<<<<< HEAD
+=======
+#playerSection
+{
+    position: absolute;
+    bottom: 0;
+}
+.players
+{
+    width: 100%; /* Full width */
+        background-color: #ccc;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-bottom: 10px; /* Adjust spacing between divs */
+}
+>>>>>>> 205a630db76b29cdc2bd176dfc9678c21d7772ae
