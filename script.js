@@ -1,4 +1,19 @@
-var data = $.csv.toObjects(csv);
-d3.csv('test.csv').then((data) => {
-    console.log(data); // Process the data
+const fs = require('fs');
+const csv = require('csv-parser');
+
+// Path to your CSV file
+const csvFilePath = 'test.csv';
+
+// Array to store parsed CSV data
+const data = [];
+
+fs.createReadStream(csvFilePath)
+  .pipe(csv())
+  .on('data', (row) => {
+    // Process each row of the CSV
+    data.push(row);
+  })
+  .on('end', () => {
+    // All rows parsed, log the data
+    console.log(data);
   });
