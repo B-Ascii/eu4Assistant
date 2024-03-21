@@ -64,7 +64,7 @@
     border: gold 3px solid;
   } 
   .playerIdeaList{
-    height: 30px;
+    height: 40px;
     width: 50%;
     background-color: darkslategray;
     color: white;
@@ -195,7 +195,7 @@
     width: 60%; /* Full width */
     padding: 5px;
     box-sizing: border-box;
-    margin-top: 2%; /* Adjust spacing between divs */
+    margin-top: 1%; /* Adjust spacing between divs */
     margin-left: 25%;
     display: flex;
     flex-wrap: wrap; 
