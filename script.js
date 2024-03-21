@@ -43,8 +43,9 @@ document.getElementById('deleteIdeaButton').addEventListener('click',function()
   console.log(ideasArray)
   var arrayCounter = 0;
           while (arrayCounter<ideasArray.length){
-            jsonTextArea.value += ideasArray[arrayCounter] +"\n";
+            jsonTextArea.value += arrayCounter + " " + ideasArray[arrayCounter] +"\n";
             arrayCounter++;
           }
           arrayCounter = 0;
 })
+
