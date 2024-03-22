@@ -4,12 +4,12 @@ var currentPlayer=""
 let jsonTextArea = document.getElementById('ideaList');
 
 document.getElementById('loadIdeasButton').addEventListener('click', function() {
-    fetch('ideas.json')
+    fetch('ideas2.json')
       .then(response => response.json())
       .then(data => {
         //console.log('JSON data:', data);
 
-        var ideas = data.map(entry => entry.IDEA).join("  ");
+        var ideas = data.map(entry => entry.Description).join("  ");
         // Display the ideas in the textarea
         const jsonTextArea = document.getElementById('ideaList');
 
