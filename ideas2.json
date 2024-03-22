@@ -1,0 +1,2078 @@
+[
+  {
+    "Column Number": 1,
+    "Description": "Admin Effiencey +10%"
+  },
+  {
+    "Column Number": 2,
+    "Description": "Admin Effiencey +5%"
+  },
+  {
+    "Column Number": 3,
+    "Description": "Administrative Free Policies +1"
+  },
+  {
+    "Column Number": 4,
+    "Description": "Administrative Possible Policies +1"
+  },
+  {
+    "Column Number": 6,
+    "Description": "Administrative Technology Cost -10%"
+  },
+  {
+    "Column Number": 7,
+    "Description": "Advisor Cost -20%"
+  },
+  {
+    "Column Number": 8,
+    "Description": "Advisor Cost -15%"
+  },
+  {
+    "Column Number": 9,
+    "Description": "Advisor Cost -10%"
+  },
+  {
+    "Column Number": 10,
+    "Description": "All Estates Loyalty Equilibirium +20%"
+  },
+  {
+    "Column Number": 11,
+    "Description": "All Estates Loyalty Equilibirium +15%"
+  },
+  {
+    "Column Number": 12,
+    "Description": "All Estates Loyalty Equilibirium +10%"
+  },
+  {
+    "Column Number": 14,
+    "Description": "All Power Cost -5%"
+  },
+  {
+    "Column Number": 15,
+    "Description": "Autonomy Change Cooldown -40%"
+  },
+  {
+    "Column Number": 16,
+    "Description": "Average Monarch Lifespan +40%"
+  },
+  {
+    "Column Number": 17,
+    "Description": "Average Monarch Lifespan +30%"
+  },
+  {
+    "Column Number": 18,
+    "Description": "Average Monarch Lifespan +20%"
+  },
+  {
+    "Column Number": 19,
+    "Description": "Caravan Power 40%"
+  },
+  {
+    "Column Number": 20,
+    "Description": "Caravan Power 30%"
+  },
+  {
+    "Column Number": 21,
+    "Description": "Caravan Power 20%"
+  },
+  {
+    "Column Number": 22,
+    "Description": "Chance of New Heir 100%"
+  },
+  {
+    "Column Number": 23,
+    "Description": "Chance of New Heir 75%"
+  },
+  {
+    "Column Number": 24,
+    "Description": "Chance of New Heir 50%"
+  },
+  {
+    "Column Number": 25,
+    "Description": "Change National Focus Cooldown Years -10"
+  },
+  {
+    "Column Number": 26,
+    "Description": "Change National Focus Cooldown Years -5"
+  },
+  {
+    "Column Number": 27,
+    "Description": "Church Power 40%"
+  },
+  {
+    "Column Number": 28,
+    "Description": "Clergy Loyalty Equilibrium +20%"
+  },
+  {
+    "Column Number": 29,
+    "Description": "Clergy Loyalty Equilibrium +15%"
+  },
+  {
+    "Column Number": 30,
+    "Description": "Clergy Loyalty Equilibrium +10%"
+  },
+  {
+    "Column Number": 31,
+    "Description": "Construction Cost -20%"
+  },
+  {
+    "Column Number": 32,
+    "Description": "Construction Cost -15%"
+  },
+  {
+    "Column Number": 33,
+    "Description": "Construction Cost -10%"
+  },
+  {
+    "Column Number": 34,
+    "Description": "Construction Cost -5%"
+  },
+  {
+    "Column Number": 35,
+    "Description": "Construction Time -40%"
+  },
+  {
+    "Column Number": 36,
+    "Description": "Construction Time -30%"
+  },
+  {
+    "Column Number": 37,
+    "Description": "Construction Time -20%"
+  },
+  {
+    "Column Number": 38,
+    "Description": "Construction Time -10%"
+  },
+  {
+    "Column Number": 39,
+    "Description": "Core Creation Cost -20%"
+  },
+  {
+    "Column Number": 40,
+    "Description": "Core Creation Cost -15%"
+  },
+  {
+    "Column Number": 41,
+    "Description": "Core Creation Cost -10%"
+  },
+  {
+    "Column Number": 42,
+    "Description": "Cost of Adivors with Ruler's Culture -20%"
+  },
+  {
+    "Column Number": 43,
+    "Description": "Cost of Adivors with Ruler's Culture -15%"
+  },
+  {
+    "Column Number": 44,
+    "Description": "Cost of Adivors with Ruler's Culture -10%"
+  },
+  {
+    "Column Number": 45,
+    "Description": "Curia Power Costs -60%"
+  },
+  {
+    "Column Number": 46,
+    "Description": "Curia Power Costs -45%"
+  },
+  {
+    "Column Number": 47,
+    "Description": "Development Cost -20%"
+  },
+  {
+    "Column Number": 48,
+    "Description": "Development Cost -10%"
+  },
+  {
+    "Column Number": 50,
+    "Description": "Development Cost Modifier -15%"
+  },
+  {
+    "Column Number": 53,
+    "Description": "Female Adivsor Chance +100%"
+  },
+  {
+    "Column Number": 54,
+    "Description": "Female Adivsor Chance +50%"
+  },
+  {
+    "Column Number": 55,
+    "Description": "Free Policies +1"
+  },
+  {
+    "Column Number": 56,
+    "Description": "Global Monthyl Devastation -0.1"
+  },
+  {
+    "Column Number": 57,
+    "Description": "Global Monthyl Devastation -0.05"
+  },
+  {
+    "Column Number": 58,
+    "Description": "Global Possible Number of buildings +2"
+  },
+  {
+    "Column Number": 59,
+    "Description": "Global Possible Number of buildings +1"
+  },
+  {
+    "Column Number": 60,
+    "Description": "Global Prosperity Growth +0.1"
+  },
+  {
+    "Column Number": 61,
+    "Description": "Global Prosperity Growth +0.05"
+  },
+  {
+    "Column Number": 62,
+    "Description": "Gold Depletion Chance -50%"
+  },
+  {
+    "Column Number": 63,
+    "Description": "Gold Depletion Chance -25%"
+  },
+  {
+    "Column Number": 65,
+    "Description": "Goods Produced +1.5"
+  },
+  {
+    "Column Number": 66,
+    "Description": "Goods Produced +1"
+  },
+  {
+    "Column Number": 67,
+    "Description": "Goods Produced +0.5"
+  },
+  {
+    "Column Number": 68,
+    "Description": "Goods Produced +20%"
+  },
+  {
+    "Column Number": 69,
+    "Description": "Goods Produced +15%"
+  },
+  {
+    "Column Number": 70,
+    "Description": "Goods Produced +10%"
+  },
+  {
+    "Column Number": 71,
+    "Description": "Goods Produced +5%"
+  },
+  {
+    "Column Number": 72,
+    "Description": "Governing Capacity Modifier 40%"
+  },
+  {
+    "Column Number": 73,
+    "Description": "Governing Capacity Modifier 30%"
+  },
+  {
+    "Column Number": 74,
+    "Description": "Governing Capacity Modifier 20%"
+  },
+  {
+    "Column Number": 75,
+    "Description": "Governing Capacity Modifier 10%"
+  },
+  {
+    "Column Number": 76,
+    "Description": "Great Project Upgrade Cost -40%"
+  },
+  {
+    "Column Number": 77,
+    "Description": "Great Project Upgrade Cost -30%"
+  },
+  {
+    "Column Number": 78,
+    "Description": "Great Project Upgrade Cost -20%"
+  },
+  {
+    "Column Number": 79,
+    "Description": "Heretic and Heathen Provinces do not give any penalties"
+  },
+  {
+    "Column Number": 80,
+    "Description": "Hostile Core-Creation Cost on Us +60%"
+  },
+  {
+    "Column Number": 81,
+    "Description": "Hostile Core-Creation Cost on Us +45%"
+  },
+  {
+    "Column Number": 82,
+    "Description": "Idea Cost -10%"
+  },
+  {
+    "Column Number": 83,
+    "Description": "Idea Cost -5%"
+  },
+  {
+    "Column Number": 84,
+    "Description": "Ignore Coring Distance"
+  },
+  {
+    "Column Number": 85,
+    "Description": "Income from Vassals 20%"
+  },
+  {
+    "Column Number": 86,
+    "Description": "Income from Vassals 15%"
+  },
+  {
+    "Column Number": 87,
+    "Description": "Income from Vassals 10%"
+  },
+  {
+    "Column Number": 88,
+    "Description": "Innovativeness Gain 100%"
+  },
+  {
+    "Column Number": 89,
+    "Description": "Innovativeness Gain 75%"
+  },
+  {
+    "Column Number": 90,
+    "Description": "Innovativeness Gain 50%"
+  },
+  {
+    "Column Number": 91,
+    "Description": "Insiution Embracement Cost -40%"
+  },
+  {
+    "Column Number": 92,
+    "Description": "Insiution Embracement Cost -30%"
+  },
+  {
+    "Column Number": 93,
+    "Description": "Insitution Spread 40%"
+  },
+  {
+    "Column Number": 94,
+    "Description": "Insitution Spread in True Faith Provinces +40%"
+  },
+  {
+    "Column Number": 95,
+    "Description": "Interest Per Annum -1.0"
+  },
+  {
+    "Column Number": 96,
+    "Description": "Interest Per Annum -0.5"
+  },
+  {
+    "Column Number": 97,
+    "Description": "Length of election term -1"
+  },
+  {
+    "Column Number": 98,
+    "Description": "Maximum Absolutism +20"
+  },
+  {
+    "Column Number": 99,
+    "Description": "Maximum Absolutism +15"
+  },
+  {
+    "Column Number": 100,
+    "Description": "Maximum Absolutism +10"
+  },
+  {
+    "Column Number": 101,
+    "Description": "Minimum Autonomy in Territories -20%"
+  },
+  {
+    "Column Number": 102,
+    "Description": "Missionaries +2"
+  },
+  {
+    "Column Number": 103,
+    "Description": "Missionaries +1"
+  },
+  {
+    "Column Number": 104,
+    "Description": "Missionary Maitence Cost -40%"
+  },
+  {
+    "Column Number": 105,
+    "Description": "Missionary Strength +2%"
+  },
+  {
+    "Column Number": 106,
+    "Description": "Missionary Strength +1.5%"
+  },
+  {
+    "Column Number": 107,
+    "Description": "Monarch Administrative Skill +1"
+  },
+  {
+    "Column Number": 108,
+    "Description": "Monthly Administrave Power +"
+  },
+  {
+    "Column Number": 109,
+    "Description": "Monthly Autonomy Change -0.1"
+  },
+  {
+    "Column Number": 110,
+    "Description": "Monthly Autonomy Change -0.05"
+  },
+  {
+    "Column Number": 111,
+    "Description": "Monthly Faith Power +1"
+  },
+  {
+    "Column Number": 112,
+    "Description": "Monthly Fervor +4"
+  },
+  {
+    "Column Number": 113,
+    "Description": "Monthly Fervor +3"
+  },
+  {
+    "Column Number": 114,
+    "Description": "Monthly Gold Inflation Modifier -50%"
+  },
+  {
+    "Column Number": 115,
+    "Description": "Monthly Piety -0.2"
+  },
+  {
+    "Column Number": 116,
+    "Description": "Monthly Piety 0.2"
+  },
+  {
+    "Column Number": 117,
+    "Description": "Monthly Piety Accelerator 0.4"
+  },
+  {
+    "Column Number": 118,
+    "Description": "Monthly Piety Accelerator 0.2"
+  },
+  {
+    "Column Number": 119,
+    "Description": "Monthly Splendor +8"
+  },
+  {
+    "Column Number": 120,
+    "Description": "Monthly Splendor +6"
+  },
+  {
+    "Column Number": 121,
+    "Description": "Monthly Splendor +4"
+  },
+  {
+    "Column Number": 122,
+    "Description": "Monthly Splendor +2"
+  },
+  {
+    "Column Number": 123,
+    "Description": "Move Capital Cost Modifier -80%"
+  },
+  {
+    "Column Number": 124,
+    "Description": "National Tax Modifier +20%"
+  },
+  {
+    "Column Number": 125,
+    "Description": "National Tax Modifier +15%"
+  },
+  {
+    "Column Number": 126,
+    "Description": "National Unrest -2"
+  },
+  {
+    "Column Number": 127,
+    "Description": "No Stability Loss on Monarch Death"
+  },
+  {
+    "Column Number": 128,
+    "Description": "Permanent CB against Neighboring Heathens and Heretics"
+  },
+  {
+    "Column Number": 129,
+    "Description": "Possible Adivosrs +2"
+  },
+  {
+    "Column Number": 130,
+    "Description": "Possile Policies +1"
+  },
+  {
+    "Column Number": 131,
+    "Description": "Prestige Decay -2%"
+  },
+  {
+    "Column Number": 132,
+    "Description": "Prestige Decay -1.5%"
+  },
+  {
+    "Column Number": 133,
+    "Description": "Production Effeciency +20%"
+  },
+  {
+    "Column Number": 134,
+    "Description": "Production Effeciency +15%"
+  },
+  {
+    "Column Number": 135,
+    "Description": "Production Effeciency +10%"
+  },
+  {
+    "Column Number": 136,
+    "Description": "Production Effeciency +5%"
+  },
+  {
+    "Column Number": 137,
+    "Description": "Reduce Inflation Cost -20%"
+  },
+  {
+    "Column Number": 138,
+    "Description": "Reduce Inflation Cost -15%"
+  },
+  {
+    "Column Number": 139,
+    "Description": "Reelection Cost -30%"
+  },
+  {
+    "Column Number": 140,
+    "Description": "Reelection Cost -15%"
+  },
+  {
+    "Column Number": 141,
+    "Description": "Reform Progress Growth +30%"
+  },
+  {
+    "Column Number": 142,
+    "Description": "Reform Progress Growth +22.5%"
+  },
+  {
+    "Column Number": 143,
+    "Description": "Reform Progress Growth +15%"
+  },
+  {
+    "Column Number": 144,
+    "Description": "Religious Unity +30%"
+  },
+  {
+    "Column Number": 145,
+    "Description": "Stability Cost Modifier -20%"
+  },
+  {
+    "Column Number": 146,
+    "Description": "Stability Cost Modifier -1"
+  },
+  {
+    "Column Number": 147,
+    "Description": "State Maitnence -40%"
+  },
+  {
+    "Column Number": 148,
+    "Description": "State Maitnence -30%"
+  },
+  {
+    "Column Number": 149,
+    "Description": "State Governings Cost -20%"
+  },
+  {
+    "Column Number": 150,
+    "Description": "State Governings Cost -15%"
+  },
+  {
+    "Column Number": 151,
+    "Description": "State Governings Cost -10%"
+  },
+  {
+    "Column Number": 152,
+    "Description": "Technology Cost -10%"
+  },
+  {
+    "Column Number": 153,
+    "Description": "Technology Cost -5%"
+  },
+  {
+    "Column Number": 154,
+    "Description": "Tolerance of Heathens +2"
+  },
+  {
+    "Column Number": 155,
+    "Description": "Tolerance of Heretics +2"
+  },
+  {
+    "Column Number": 156,
+    "Description": "Tolerance of True faith +2"
+  },
+  {
+    "Column Number": 157,
+    "Description": "Trade Company Governing Cost -20%"
+  },
+  {
+    "Column Number": 158,
+    "Description": "Yearly Absolutism +1"
+  },
+  {
+    "Column Number": 159,
+    "Description": "Yearly Absolutism +0.5"
+  },
+  {
+    "Column Number": 160,
+    "Description": "Yearly Corruption -0.2"
+  },
+  {
+    "Column Number": 161,
+    "Description": "Yearly Corruption -0.15"
+  },
+  {
+    "Column Number": 162,
+    "Description": "Yearly Corruption -0.1"
+  },
+  {
+    "Column Number": 163,
+    "Description": "Yearly Devotion +1"
+  },
+  {
+    "Column Number": 164,
+    "Description": "Yearly Horde Unity +1"
+  },
+  {
+    "Column Number": 165,
+    "Description": "Yearly Horde Unity +0.5"
+  },
+  {
+    "Column Number": 166,
+    "Description": "Yearly Inflation Reduction +0.2"
+  },
+  {
+    "Column Number": 167,
+    "Description": "Yearly Inflation Reduction +0.15"
+  },
+  {
+    "Column Number": 168,
+    "Description": "Yearly Inflation Reduction +0.10"
+  },
+  {
+    "Column Number": 169,
+    "Description": "Yearly Patriach Authority +2.0"
+  },
+  {
+    "Column Number": 170,
+    "Description": "Yearly Patriach Authority +1.5"
+  },
+  {
+    "Column Number": 171,
+    "Description": "Yearly Patriach Authority +1"
+  },
+  {
+    "Column Number": 172,
+    "Description": "Yearly Prestige +2"
+  },
+  {
+    "Column Number": 173,
+    "Description": "Yearly Prestige +1.5"
+  },
+  {
+    "Column Number": 174,
+    "Description": "Yearly Prestige +1.0"
+  },
+  {
+    "Column Number": 175,
+    "Description": "Yearly Republican Tradition 0.30"
+  },
+  {
+    "Column Number": 176,
+    "Description": "Yearly Republican Tradition 0.15"
+  },
+  {
+    "Column Number": 177,
+    "Description": "Years of Sepratism -10"
+  },
+  {
+    "Column Number": 178,
+    "Description": "All Estate Influence -20%"
+  },
+  {
+    "Column Number": 179,
+    "Description": "All Estate Influence -15%"
+  },
+  {
+    "Column Number": 180,
+    "Description": "All Estate Influence -10%"
+  },
+  {
+    "Column Number": 181,
+    "Description": "Yearly Harmony growth +whatever"
+  },
+  {
+    "Column Number": 182,
+    "Description": "Army Tradition 50%"
+  },
+  {
+    "Column Number": 183,
+    "Description": "Army Tradition 100%"
+  },
+  {
+    "Column Number": 184,
+    "Description": "Army Drill Modifier 50%"
+  },
+  {
+    "Column Number": 185,
+    "Description": "Artillery Combat Ability 20%"
+  },
+  {
+    "Column Number": 186,
+    "Description": "Artillery Combat Ability 15%"
+  },
+  {
+    "Column Number": 187,
+    "Description": "Artillery Combat Ability 10%"
+  },
+  {
+    "Column Number": 188,
+    "Description": "Artillery Cost - 20%"
+  },
+  {
+    "Column Number": 189,
+    "Description": "Artillery Cost - 15%"
+  },
+  {
+    "Column Number": 190,
+    "Description": "Artillery Damage from back row 20%"
+  },
+  {
+    "Column Number": 191,
+    "Description": "Artillery Damage from back row 15%"
+  },
+  {
+    "Column Number": 192,
+    "Description": "Artillery Damage from back row 10%"
+  },
+  {
+    "Column Number": 193,
+    "Description": "Artillery Fire +1"
+  },
+  {
+    "Column Number": 194,
+    "Description": "Artillery Levels Available vs Fort +2"
+  },
+  {
+    "Column Number": 195,
+    "Description": "Artillery Shock +2"
+  },
+  {
+    "Column Number": 196,
+    "Description": "Artillery Shock +1"
+  },
+  {
+    "Column Number": 197,
+    "Description": "Attrion for Enemies +2"
+  },
+  {
+    "Column Number": 198,
+    "Description": "Attrition for Enemies +1.5"
+  },
+  {
+    "Column Number": 199,
+    "Description": "Available Loot 60%"
+  },
+  {
+    "Column Number": 200,
+    "Description": "Blockade Impact on Siege +1"
+  },
+  {
+    "Column Number": 201,
+    "Description": "Cav combat Ability +20%"
+  },
+  {
+    "Column Number": 202,
+    "Description": "Cav combat Ability +15%"
+  },
+  {
+    "Column Number": 203,
+    "Description": "Cav combat Ability +10%"
+  },
+  {
+    "Column Number": 204,
+    "Description": "Cav Cost -20%"
+  },
+  {
+    "Column Number": 205,
+    "Description": "Cav Cost -15%"
+  },
+  {
+    "Column Number": 206,
+    "Description": "Cav Cost -10%"
+  },
+  {
+    "Column Number": 207,
+    "Description": "Cavalry Fire +1"
+  },
+  {
+    "Column Number": 208,
+    "Description": "Cavalry Flanking Ability +50%"
+  },
+  {
+    "Column Number": 209,
+    "Description": "Cavalry Shock +1"
+  },
+  {
+    "Column Number": 210,
+    "Description": "Cav to Infantry Ration +60%"
+  },
+  {
+    "Column Number": 211,
+    "Description": "Cav to Infantry Ration +45%"
+  },
+  {
+    "Column Number": 212,
+    "Description": "Cav to Infantry Ration +30%"
+  },
+  {
+    "Column Number": 213,
+    "Description": "Combat Bonus in Terrain of Capital +1"
+  },
+  {
+    "Column Number": 214,
+    "Description": "Discipline 10%"
+  },
+  {
+    "Column Number": 215,
+    "Description": "Discipline 7.5%"
+  },
+  {
+    "Column Number": 216,
+    "Description": "Discipline 5%"
+  },
+  {
+    "Column Number": 217,
+    "Description": "Discipline 2.5%"
+  },
+  {
+    "Column Number": 218,
+    "Description": "Fire Damage Recieved -20%"
+  },
+  {
+    "Column Number": 219,
+    "Description": "Fire Damage Recieve -15%"
+  },
+  {
+    "Column Number": 220,
+    "Description": "Fire Damage Recieve -10%"
+  },
+  {
+    "Column Number": 221,
+    "Description": "Fire Damage Recieve -5%"
+  },
+  {
+    "Column Number": 222,
+    "Description": "Force March Costs no power"
+  },
+  {
+    "Column Number": 223,
+    "Description": "Fort Defense +20%"
+  },
+  {
+    "Column Number": 224,
+    "Description": "Fort Defense +15%"
+  },
+  {
+    "Column Number": 225,
+    "Description": "Fort Maintence on Border with Rival -40%"
+  },
+  {
+    "Column Number": 226,
+    "Description": "Garrison Size +40%"
+  },
+  {
+    "Column Number": 227,
+    "Description": "Garrison Size +30%"
+  },
+  {
+    "Column Number": 228,
+    "Description": "Garrison Size +20%"
+  },
+  {
+    "Column Number": 229,
+    "Description": "General Cost -50%"
+  },
+  {
+    "Column Number": 230,
+    "Description": "General Cost -25%"
+  },
+  {
+    "Column Number": 231,
+    "Description": "Global Attacker Dice Roll +1"
+  },
+  {
+    "Column Number": 232,
+    "Description": "Global Defender Dice Roll +1"
+  },
+  {
+    "Column Number": 233,
+    "Description": "Ignore Zone of Control"
+  },
+  {
+    "Column Number": 234,
+    "Description": "Infantry Combat Ability +20%"
+  },
+  {
+    "Column Number": 235,
+    "Description": "Infantry Combat Ability +15%"
+  },
+  {
+    "Column Number": 236,
+    "Description": "Infantry Combat Ability +10%"
+  },
+  {
+    "Column Number": 237,
+    "Description": "Infantry Cost -20%"
+  },
+  {
+    "Column Number": 238,
+    "Description": "Infantry Cost -15%"
+  },
+  {
+    "Column Number": 239,
+    "Description": "Infantry Cost -10%"
+  },
+  {
+    "Column Number": 240,
+    "Description": "Infantry Fire +1"
+  },
+  {
+    "Column Number": 241,
+    "Description": "Infantry Shock +1"
+  },
+  {
+    "Column Number": 242,
+    "Description": "Land Attrtion -40%"
+  },
+  {
+    "Column Number": 243,
+    "Description": "Land Attrtion -30%"
+  },
+  {
+    "Column Number": 244,
+    "Description": "Land Fire Damage +20%"
+  },
+  {
+    "Column Number": 245,
+    "Description": "Land Fire Damage +15%"
+  },
+  {
+    "Column Number": 246,
+    "Description": "Land Fire Damage +10%"
+  },
+  {
+    "Column Number": 247,
+    "Description": "Land Fire Damage +5%"
+  },
+  {
+    "Column Number": 248,
+    "Description": "Land Force Limit Modifier +30%"
+  },
+  {
+    "Column Number": 249,
+    "Description": "Land Force Limit Modifier +22.5%"
+  },
+  {
+    "Column Number": 250,
+    "Description": "Land Force Limit Modifier +15%"
+  },
+  {
+    "Column Number": 251,
+    "Description": "Land Maintence Modifier -20%"
+  },
+  {
+    "Column Number": 252,
+    "Description": "Land Maintence Modifier -15%"
+  },
+  {
+    "Column Number": 253,
+    "Description": "Land Maitnence Modifier -10%"
+  },
+  {
+    "Column Number": 254,
+    "Description": "Manpower Recovery Speed 20%"
+  },
+  {
+    "Column Number": 255,
+    "Description": "Manpower Recovery Speed 15%"
+  },
+  {
+    "Column Number": 256,
+    "Description": "Manpower Recovery Speed 10%"
+  },
+  {
+    "Column Number": 257,
+    "Description": "Manpower in Accepted Culture 50%"
+  },
+  {
+    "Column Number": 258,
+    "Description": "Manpower in Accepted Culture 37.5%"
+  },
+  {
+    "Column Number": 259,
+    "Description": "Manpower in Accepted Culture 25%"
+  },
+  {
+    "Column Number": 260,
+    "Description": "Manpower in Primary Culture 50%"
+  },
+  {
+    "Column Number": 261,
+    "Description": "Manpower in true Faith 40%"
+  },
+  {
+    "Column Number": 262,
+    "Description": "Manpower in true faith 30%"
+  },
+  {
+    "Column Number": 263,
+    "Description": "Manpower in true Faith 20%"
+  },
+  {
+    "Column Number": 264,
+    "Description": "Max Hostile Attrition +3"
+  },
+  {
+    "Column Number": 265,
+    "Description": "Max Hostile Attrition +2"
+  },
+  {
+    "Column Number": 266,
+    "Description": "Mercenary Cost -10%"
+  },
+  {
+    "Column Number": 267,
+    "Description": "Mercenary Discipline +10%"
+  },
+  {
+    "Column Number": 268,
+    "Description": "Mercenary Discipline +7.5%"
+  },
+  {
+    "Column Number": 269,
+    "Description": "Mercenary Discipline 5%"
+  },
+  {
+    "Column Number": 270,
+    "Description": "Mercenary Manpower 50%"
+  },
+  {
+    "Column Number": 271,
+    "Description": "Mercenary Manpower 37.5%"
+  },
+  {
+    "Column Number": 272,
+    "Description": "Military Free Policies +1"
+  },
+  {
+    "Column Number": 273,
+    "Description": "Military Possible Policies +1"
+  },
+  {
+    "Column Number": 274,
+    "Description": "Military tactics 0.05"
+  },
+  {
+    "Column Number": 275,
+    "Description": "Military Tech Cost -10%"
+  },
+  {
+    "Column Number": 276,
+    "Description": "Monarch Military Skill +1"
+  },
+  {
+    "Column Number": 277,
+    "Description": "Monthly Military Power +1"
+  },
+  {
+    "Column Number": 278,
+    "Description": "Morale Damage 20%"
+  },
+  {
+    "Column Number": 279,
+    "Description": "Morale Damage 15%"
+  },
+  {
+    "Column Number": 280,
+    "Description": "Morale Damage 10%"
+  },
+  {
+    "Column Number": 281,
+    "Description": "Morale Damage 5%"
+  },
+  {
+    "Column Number": 282,
+    "Description": "Morale Damage Recieved -20%"
+  },
+  {
+    "Column Number": 283,
+    "Description": "Morale Damage Recieved -15%"
+  },
+  {
+    "Column Number": 284,
+    "Description": "Morale Damage Recieved -10%"
+  },
+  {
+    "Column Number": 285,
+    "Description": "Morale Damage Recieved -5%"
+  },
+  {
+    "Column Number": 286,
+    "Description": "Morale of Armies 20%"
+  },
+  {
+    "Column Number": 287,
+    "Description": "Morale of Armies 15%"
+  },
+  {
+    "Column Number": 288,
+    "Description": "Morale of Armies 10%"
+  },
+  {
+    "Column Number": 289,
+    "Description": "Morale of Armies 5%"
+  },
+  {
+    "Column Number": 290,
+    "Description": "Movement Speed 20%"
+  },
+  {
+    "Column Number": 291,
+    "Description": "Movement Speed 15%"
+  },
+  {
+    "Column Number": 292,
+    "Description": "Movement Speed 10%"
+  },
+  {
+    "Column Number": 293,
+    "Description": "National Garrison Growth 80%"
+  },
+  {
+    "Column Number": 294,
+    "Description": "National Manpower 30%"
+  },
+  {
+    "Column Number": 295,
+    "Description": "National Manpower 22.5%"
+  },
+  {
+    "Column Number": 296,
+    "Description": "National Manpower 15%"
+  },
+  {
+    "Column Number": 297,
+    "Description": "Nobility Loyalty Equilibirium +20%"
+  },
+  {
+    "Column Number": 298,
+    "Description": "Own Territory Dice Roll Bonus +1"
+  },
+  {
+    "Column Number": 299,
+    "Description": "Possible Cawa + 0.6 (finnish / swedish)"
+  },
+  {
+    "Column Number": 300,
+    "Description": "Possible Cawa + 0.45"
+  },
+  {
+    "Column Number": 301,
+    "Description": "Possible Wing Hussar level"
+  },
+  {
+    "Column Number": 302,
+    "Description": "Possible Wing Hussar level"
+  },
+  {
+    "Column Number": 303,
+    "Description": "Prestige from Land Battles +100%"
+  },
+  {
+    "Column Number": 304,
+    "Description": "Razing Power +40%"
+  },
+  {
+    "Column Number": 305,
+    "Description": "Razing Power +30%"
+  },
+  {
+    "Column Number": 306,
+    "Description": "Recover Army Morale Speed +20%"
+  },
+  {
+    "Column Number": 307,
+    "Description": "Recover Army Morale Speed +15%"
+  },
+  {
+    "Column Number": 308,
+    "Description": "Recover Army Morale Speed +10%"
+  },
+  {
+    "Column Number": 309,
+    "Description": "Recover Army Morale Speed +5%"
+  },
+  {
+    "Column Number": 310,
+    "Description": "Recruiting Time -20%"
+  },
+  {
+    "Column Number": 311,
+    "Description": "Recruiting Time -15%"
+  },
+  {
+    "Column Number": 312,
+    "Description": "Recruiting Time -10%"
+  },
+  {
+    "Column Number": 313,
+    "Description": "Reduced Morale Damage Taken by Reserves +60%"
+  },
+  {
+    "Column Number": 314,
+    "Description": "Reduced Morale Damage Taken by Reserves +45%"
+  },
+  {
+    "Column Number": 315,
+    "Description": "Reduced Morale Damage Taken by Reserves +30%"
+  },
+  {
+    "Column Number": 316,
+    "Description": "Regain Manpower When Disbanding"
+  },
+  {
+    "Column Number": 317,
+    "Description": "Regiment Cost -20%"
+  },
+  {
+    "Column Number": 318,
+    "Description": "Regiment Cost -15%"
+  },
+  {
+    "Column Number": 319,
+    "Description": "Regiment Drill Lost -50%"
+  },
+  {
+    "Column Number": 320,
+    "Description": "Regiment Drill Lost -37.5%"
+  },
+  {
+    "Column Number": 321,
+    "Description": "Regiment Drill Lost -25.0%"
+  },
+  {
+    "Column Number": 322,
+    "Description": "Regiment Manpower Usage -30%"
+  },
+  {
+    "Column Number": 323,
+    "Description": "Regiment Manpower Usage -20%"
+  },
+  {
+    "Column Number": 324,
+    "Description": "Reinforce Cost -20%"
+  },
+  {
+    "Column Number": 325,
+    "Description": "Reinforce Cost -15%"
+  },
+  {
+    "Column Number": 326,
+    "Description": "Reinforce Speed 30%"
+  },
+  {
+    "Column Number": 327,
+    "Description": "Reinforce Speed 22.5%"
+  },
+  {
+    "Column Number": 328,
+    "Description": "Shock Damage 20%"
+  },
+  {
+    "Column Number": 329,
+    "Description": "Shock Damage 15%"
+  },
+  {
+    "Column Number": 330,
+    "Description": "Shock Damage 10%"
+  },
+  {
+    "Column Number": 331,
+    "Description": "Shock Damage Recieved -20%"
+  },
+  {
+    "Column Number": 332,
+    "Description": "Shock Damage Recieved -15%"
+  },
+  {
+    "Column Number": 333,
+    "Description": "Shock Damage Recieved -10%"
+  },
+  {
+    "Column Number": 334,
+    "Description": "Shock Damage Recieved -5%"
+  },
+  {
+    "Column Number": 335,
+    "Description": "Siege Ability +20%"
+  },
+  {
+    "Column Number": 336,
+    "Description": "Siege Ability +15%"
+  },
+  {
+    "Column Number": 337,
+    "Description": "Siege Ability +10%"
+  },
+  {
+    "Column Number": 338,
+    "Description": "Special Unit Force Limit +60%"
+  },
+  {
+    "Column Number": 339,
+    "Description": "Special Unit Force Limit +45%"
+  },
+  {
+    "Column Number": 340,
+    "Description": "Triple Manpower increase in religious Wars"
+  },
+  {
+    "Column Number": 341,
+    "Description": "Vassal Force Limit 200%"
+  },
+  {
+    "Column Number": 342,
+    "Description": "Yearly Army Professionalism +2.0%"
+  },
+  {
+    "Column Number": 343,
+    "Description": "Yearly Army Professionalism +1.5%"
+  },
+  {
+    "Column Number": 344,
+    "Description": "Yearly Army Professionalism +1%"
+  },
+  {
+    "Column Number": 345,
+    "Description": "Yearly Army Professionalism +0.5%"
+  },
+  {
+    "Column Number": 346,
+    "Description": "Yearly Army Tradition 1.0"
+  },
+  {
+    "Column Number": 347,
+    "Description": "Yearly Army Tradition 0.5"
+  },
+  {
+    "Column Number": 348,
+    "Description": "Yearly Army Tradition Decay -1.0%"
+  },
+  {
+    "Column Number": 349,
+    "Description": "Yearly Army Tradition Decay -0.5%"
+  },
+  {
+    "Column Number": 350,
+    "Description": "Possible Manchu Banners 50%"
+  },
+  {
+    "Column Number": 351,
+    "Description": "Possible Manchu Banners 25%"
+  },
+  {
+    "Column Number": 352,
+    "Description": "Army Drill Modifier 37.5%"
+  },
+  {
+    "Column Number": 353,
+    "Description": "Army Drill Modifier 25%"
+  },
+  {
+    "Column Number": 354,
+    "Description": "Admiral Cost -50%"
+  },
+  {
+    "Column Number": 355,
+    "Description": "Admiral Cost -25%"
+  },
+  {
+    "Column Number": 356,
+    "Description": "Allow Claims Bordering Claims"
+  },
+  {
+    "Column Number": 357,
+    "Description": "Allow estate Priviledges to be revoked regardless to be revoked"
+  },
+  {
+    "Column Number": 358,
+    "Description": "Allows Transfer Subject Peace Treaty at half cost"
+  },
+  {
+    "Column Number": 359,
+    "Description": "Attrition when loaded on ships: -100%"
+  },
+  {
+    "Column Number": 360,
+    "Description": "Attrition when loaded on ships: -75%"
+  },
+  {
+    "Column Number": 361,
+    "Description": "Attrition when loaded on ships: -50%"
+  },
+  {
+    "Column Number": 362,
+    "Description": "Blocakde Efficiency 40%"
+  },
+  {
+    "Column Number": 363,
+    "Description": "Blockade Efficiency 30%"
+  },
+  {
+    "Column Number": 364,
+    "Description": "Burger Loyalty Effiencey +20%"
+  },
+  {
+    "Column Number": 365,
+    "Description": "Burger Loyalty Effiencey +15%"
+  },
+  {
+    "Column Number": 366,
+    "Description": "Burger Loyalty Effiencey +10%"
+  },
+  {
+    "Column Number": 367,
+    "Description": "Burger Loyalty Effiencey +5%"
+  },
+  {
+    "Column Number": 368,
+    "Description": "Can Create Client States"
+  },
+  {
+    "Column Number": 369,
+    "Description": "Center of Trade Upgrade Cost -40%"
+  },
+  {
+    "Column Number": 370,
+    "Description": "Center of Trade Upgrade Cost -30%"
+  },
+  {
+    "Column Number": 371,
+    "Description": "Center of Trade Upgrade Cost -20%"
+  },
+  {
+    "Column Number": 372,
+    "Description": "Chance to Capture Enemy Ships +40%"
+  },
+  {
+    "Column Number": 373,
+    "Description": "Chance to Capture Enemy Ships +30%"
+  },
+  {
+    "Column Number": 374,
+    "Description": "Chance to Capture Enemy Ships +20%"
+  },
+  {
+    "Column Number": 375,
+    "Description": "Colonial Range 40%"
+  },
+  {
+    "Column Number": 376,
+    "Description": "Colonists +2"
+  },
+  {
+    "Column Number": 377,
+    "Description": "Colonists +1"
+  },
+  {
+    "Column Number": 378,
+    "Description": "Colony Development Boost +1"
+  },
+  {
+    "Column Number": 379,
+    "Description": "Combat Penalty When Landing -1"
+  },
+  {
+    "Column Number": 380,
+    "Description": "Cost of reudcing war Exhaustion -20%"
+  },
+  {
+    "Column Number": 381,
+    "Description": "Cost of reudcing war Exhaustion -15%"
+  },
+  {
+    "Column Number": 382,
+    "Description": "Cost to Promote Mercantilism -20%"
+  },
+  {
+    "Column Number": 383,
+    "Description": "Cost to Promote Mercantilism -15%"
+  },
+  {
+    "Column Number": 384,
+    "Description": "Cost to Promote Mercantilism -10%"
+  },
+  {
+    "Column Number": 385,
+    "Description": "Cost to Fabricate claim -70%"
+  },
+  {
+    "Column Number": 386,
+    "Description": "Cost to Fabricate claim -52.5%"
+  },
+  {
+    "Column Number": 387,
+    "Description": "Culture Conversion Cost -20%"
+  },
+  {
+    "Column Number": 388,
+    "Description": "Culture Conversion Cost -15%"
+  },
+  {
+    "Column Number": 389,
+    "Description": "Culture Conversion Cost -10%"
+  },
+  {
+    "Column Number": 390,
+    "Description": "Diplomatic Annexation Cost -20%"
+  },
+  {
+    "Column Number": 391,
+    "Description": "Diplomatic Annexation Cost -15%"
+  },
+  {
+    "Column Number": 392,
+    "Description": "Diplomatic Annexation Cost -10%"
+  },
+  {
+    "Column Number": 393,
+    "Description": "Diplomatic Free Policies +1"
+  },
+  {
+    "Column Number": 394,
+    "Description": "Diplomatic Possible Policies +1"
+  },
+  {
+    "Column Number": 395,
+    "Description": "Diplomatic Relations +2"
+  },
+  {
+    "Column Number": 396,
+    "Description": "Diplomatic Reputation +2"
+  },
+  {
+    "Column Number": 397,
+    "Description": "Diplomatic Reputation +1"
+  },
+  {
+    "Column Number": 398,
+    "Description": "Diplomatic Technology Cost -20%"
+  },
+  {
+    "Column Number": 399,
+    "Description": "Diplomatic Technology Cost -15%"
+  },
+  {
+    "Column Number": 400,
+    "Description": "Diplomatic Technology Cost -10%"
+  },
+  {
+    "Column Number": 401,
+    "Description": "Diplomats +2"
+  },
+  {
+    "Column Number": 402,
+    "Description": "Diplomats +1"
+  },
+  {
+    "Column Number": 403,
+    "Description": "Disemnbark Speed +100%"
+  },
+  {
+    "Column Number": 404,
+    "Description": "Disemnbark Speed +75%"
+  },
+  {
+    "Column Number": 405,
+    "Description": "Disemnbark Speed +50%"
+  },
+  {
+    "Column Number": 406,
+    "Description": "Domestic Trade Power +20%"
+  },
+  {
+    "Column Number": 407,
+    "Description": "Domestic Trade Power +15%"
+  },
+  {
+    "Column Number": 408,
+    "Description": "Domestic Trade Power +10%"
+  },
+  {
+    "Column Number": 409,
+    "Description": "Embargo Effieceny +40%"
+  },
+  {
+    "Column Number": 410,
+    "Description": "Embargo Effieceny +30%"
+  },
+  {
+    "Column Number": 411,
+    "Description": "Embargo Effieceny +20%"
+  },
+  {
+    "Column Number": 412,
+    "Description": "Envoy Travel time -40%"
+  },
+  {
+    "Column Number": 413,
+    "Description": "Flagship Cost -80%"
+  },
+  {
+    "Column Number": 414,
+    "Description": "Fleet Movement Speed +4"
+  },
+  {
+    "Column Number": 415,
+    "Description": "Fleet Movement Speed +3"
+  },
+  {
+    "Column Number": 416,
+    "Description": "Fleet Movement Speed +2"
+  },
+  {
+    "Column Number": 417,
+    "Description": "Fleet Movement Speed +1"
+  },
+  {
+    "Column Number": 418,
+    "Description": "Galley Combat Ability +20%"
+  },
+  {
+    "Column Number": 419,
+    "Description": "Galley Combat Ability +15%"
+  },
+  {
+    "Column Number": 420,
+    "Description": "Galley Combat Ability +10%"
+  },
+  {
+    "Column Number": 421,
+    "Description": "Galley Cost -20%"
+  },
+  {
+    "Column Number": 422,
+    "Description": "Global Naval Engagement Modifier +20%"
+  },
+  {
+    "Column Number": 423,
+    "Description": "Global Naval Engagement Modifier +10%"
+  },
+  {
+    "Column Number": 424,
+    "Description": "Global Settler Increase +20"
+  },
+  {
+    "Column Number": 425,
+    "Description": "Global Settler Increase +15"
+  },
+  {
+    "Column Number": 426,
+    "Description": "Global Ship Repair +40%"
+  },
+  {
+    "Column Number": 427,
+    "Description": "Global Tarrifs +20%"
+  },
+  {
+    "Column Number": 428,
+    "Description": "Global Trade Power +20%"
+  },
+  {
+    "Column Number": 429,
+    "Description": "Global Trade Power +15%"
+  },
+  {
+    "Column Number": 430,
+    "Description": "Global Trade Power +10%"
+  },
+  {
+    "Column Number": 431,
+    "Description": "Heavy Ship Combat Ability +20%"
+  },
+  {
+    "Column Number": 432,
+    "Description": "Heavy Ship Combat Ability +15%"
+  },
+  {
+    "Column Number": 433,
+    "Description": "Heavy Ship Combat Ability +10%"
+  },
+  {
+    "Column Number": 434,
+    "Description": "Heavy Ship Cost -20%"
+  },
+  {
+    "Column Number": 435,
+    "Description": "Heavy Ship Cost -10%"
+  },
+  {
+    "Column Number": 436,
+    "Description": "Liberty Desire from Subject Dev -40%"
+  },
+  {
+    "Column Number": 437,
+    "Description": "Liberty Desire from Subject Dev -30%"
+  },
+  {
+    "Column Number": 438,
+    "Description": "Liberty Desire from Subject Dev -20%"
+  },
+  {
+    "Column Number": 439,
+    "Description": "Libery Desire in Same Continent Subjects -20%"
+  },
+  {
+    "Column Number": 440,
+    "Description": "Liberty Desire in Subjects -20%"
+  },
+  {
+    "Column Number": 441,
+    "Description": "Liberty Desire in Subjects -15%"
+  },
+  {
+    "Column Number": 442,
+    "Description": "Liberty Desire in Subjects -10%"
+  },
+  {
+    "Column Number": 443,
+    "Description": "Light Ship Combat Ability +20%"
+  },
+  {
+    "Column Number": 444,
+    "Description": "Light Ship Combat Ability +15%"
+  },
+  {
+    "Column Number": 445,
+    "Description": "Light Ship Combat Ability +10%"
+  },
+  {
+    "Column Number": 446,
+    "Description": "Light Ship Cost -20%"
+  },
+  {
+    "Column Number": 447,
+    "Description": "Light Ship Cost -15%"
+  },
+  {
+    "Column Number": 448,
+    "Description": "Lowered Impact on Stability from diplomatic Actions"
+  },
+  {
+    "Column Number": 449,
+    "Description": "Max Promoted Culture +4"
+  },
+  {
+    "Column Number": 450,
+    "Description": "Max Promoted Culture +3"
+  },
+  {
+    "Column Number": 451,
+    "Description": "Max Promoted Culture +2"
+  },
+  {
+    "Column Number": 452,
+    "Description": "May Establish Siberian Frontiers"
+  },
+  {
+    "Column Number": 453,
+    "Description": "May Raid Coats"
+  },
+  {
+    "Column Number": 454,
+    "Description": "May Raid Costs Including Coats of Countries with same religion"
+  },
+  {
+    "Column Number": 455,
+    "Description": "Merchant Trade Power +10"
+  },
+  {
+    "Column Number": 456,
+    "Description": "Merchant Trade Power +5"
+  },
+  {
+    "Column Number": 457,
+    "Description": "Merchants +2"
+  },
+  {
+    "Column Number": 458,
+    "Description": "Merchants +1"
+  },
+  {
+    "Column Number": 459,
+    "Description": "Monarch Diplomatic Skill +1"
+  },
+  {
+    "Column Number": 460,
+    "Description": "Monthly Diplomatic Power +1"
+  },
+  {
+    "Column Number": 461,
+    "Description": "Monthly War Exhaustion -0.1"
+  },
+  {
+    "Column Number": 462,
+    "Description": "Monthly War Exhaustion -0.05"
+  },
+  {
+    "Column Number": 463,
+    "Description": "Morale Hit When Losing a Ship -40%"
+  },
+  {
+    "Column Number": 464,
+    "Description": "Morale Hit When Losing a Ship -30%"
+  },
+  {
+    "Column Number": 465,
+    "Description": "War Taxes Cost -100%"
+  },
+  {
+    "Column Number": 466,
+    "Description": "Morale of Navies +20%"
+  },
+  {
+    "Column Number": 467,
+    "Description": "Morale of Navies +15%"
+  },
+  {
+    "Column Number": 468,
+    "Description": "Morale of Navies +10%"
+  },
+  {
+    "Column Number": 469,
+    "Description": "Morale of Navies +5%"
+  },
+  {
+    "Column Number": 470,
+    "Description": "National Sailors Modifier 40%"
+  },
+  {
+    "Column Number": 471,
+    "Description": "National Sailors Modifier 30%"
+  },
+  {
+    "Column Number": 472,
+    "Description": "Native Assimilation +60%"
+  },
+  {
+    "Column Number": 473,
+    "Description": "Native Uprising Chance -100%"
+  },
+  {
+    "Column Number": 474,
+    "Description": "Naval Attiriton -40%"
+  },
+  {
+    "Column Number": 475,
+    "Description": "Naval Attiriton -20%"
+  },
+  {
+    "Column Number": 476,
+    "Description": "Naval Barrage -60%"
+  },
+  {
+    "Column Number": 477,
+    "Description": "Naval Combat bonus off owned Coast +2"
+  },
+  {
+    "Column Number": 478,
+    "Description": "Naval Combat bonus off owned Coast +1"
+  },
+  {
+    "Column Number": 479,
+    "Description": "Naval Leader Fire +1"
+  },
+  {
+    "Column Number": 480,
+    "Description": "Naval Leader Maneuver +1"
+  },
+  {
+    "Column Number": 481,
+    "Description": "Naval Maitnence Modifier -20%"
+  },
+  {
+    "Column Number": 482,
+    "Description": "Naval Maitnence Modifier -15%"
+  },
+  {
+    "Column Number": 483,
+    "Description": "Naval Maitnence Modifier -10%"
+  },
+  {
+    "Column Number": 484,
+    "Description": "Naval tradition from Battles +100%"
+  },
+  {
+    "Column Number": 485,
+    "Description": "Naval tradition from Battles +50%"
+  },
+  {
+    "Column Number": 486,
+    "Description": "Power Projection from Insults +100%"
+  },
+  {
+    "Column Number": 487,
+    "Description": "Prestige from Naval battles +100%"
+  },
+  {
+    "Column Number": 488,
+    "Description": "Provinces War Score Cost -25%"
+  },
+  {
+    "Column Number": 489,
+    "Description": "Provinces War Score Cost -12.5%"
+  },
+  {
+    "Column Number": 490,
+    "Description": "Provicinial Trade Power +20%"
+  },
+  {
+    "Column Number": 491,
+    "Description": "Provicinial Trade Power +15%"
+  },
+  {
+    "Column Number": 492,
+    "Description": "Provicinial Trade Power +10%"
+  },
+  {
+    "Column Number": 493,
+    "Description": "Ship Cost -20%"
+  },
+  {
+    "Column Number": 494,
+    "Description": "Ship Cost -15%"
+  },
+  {
+    "Column Number": 495,
+    "Description": "Ship Cost -10%"
+  },
+  {
+    "Column Number": 496,
+    "Description": "Ship Disengagement Chance +20%"
+  },
+  {
+    "Column Number": 497,
+    "Description": "Ship Disengagement Chance +15%"
+  },
+  {
+    "Column Number": 498,
+    "Description": "Ship Durability +20%"
+  },
+  {
+    "Column Number": 499,
+    "Description": "Ship Durability +15%"
+  },
+  {
+    "Column Number": 500,
+    "Description": "Ship Durability +10%"
+  },
+  {
+    "Column Number": 501,
+    "Description": "Ship Durability +5%"
+  },
+  {
+    "Column Number": 502,
+    "Description": "Ship Trade Power 40%"
+  },
+  {
+    "Column Number": 503,
+    "Description": "Ship Trade Power 30%"
+  },
+  {
+    "Column Number": 504,
+    "Description": "Ship Trade Power 20%"
+  },
+  {
+    "Column Number": 505,
+    "Description": "Trade Effiecieny 20%"
+  },
+  {
+    "Column Number": 506,
+    "Description": "Trade Effiecieny 15%"
+  },
+  {
+    "Column Number": 507,
+    "Description": "Trade Effiecieny 10%"
+  },
+  {
+    "Column Number": 508,
+    "Description": "Trade Power Abroad 20%"
+  },
+  {
+    "Column Number": 509,
+    "Description": "Trade Power Abroad 15%"
+  },
+  {
+    "Column Number": 510,
+    "Description": "Trade Range 80%"
+  },
+  {
+    "Column Number": 511,
+    "Description": "Trade Steering 20%"
+  },
+  {
+    "Column Number": 512,
+    "Description": "Trade Steering 15%"
+  },
+  {
+    "Column Number": 513,
+    "Description": "Transport Combat Ability +40%"
+  },
+  {
+    "Column Number": 514,
+    "Description": "War Score vs Other religions -25%"
+  },
+  {
+    "Column Number": 515,
+    "Description": "War Score vs Other religions -12.5%"
+  },
+  {
+    "Column Number": 516,
+    "Description": "Yearly Navy Tradiition +1"
+  },
+  {
+    "Column Number": 517,
+    "Description": "Yearly Papal Influence +2"
+  },
+  {
+    "Column Number": 518,
+    "Description": "Yearly Papal Influence +1"
+  },
+  {
+    "Column Number": 519,
+    "Description": "Ship Trade Power Propagation 40%"
+  },
+  {
+    "Column Number": 520,
+    "Description": "Ship Trade Power Propagation 30%"
+  },
+  {
+    "Column Number": 521,
+    "Description": "Unjustified Demands -40%"
+  },
+  {
+    "Column Number": 522,
+    "Description": "Unjustified Demands -30%"
+  },
+  {
+    "Column Number": 523,
+    "Description": "Unjustified Demands -20%"
+  },
+  {
+    "Column Number": 524,
+    "Description": "Colonial Range +30%"
+  },
+  {
+    "Column Number": 525,
+    "Description": "Colonial Range +20%"
+  }
+]
